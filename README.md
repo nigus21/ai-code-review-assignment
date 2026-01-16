@@ -48,11 +48,11 @@ Once complete:
 
 #### Verify that:
 
-**- The repository is public
+- The repository is public
 
 - All required files are present
 
-- submission_template.md is fully filled out and renders correctly on GitHub**
+- submission_template.md is fully filled out and renders correctly on GitHub
 
 ### Step 5: Submit the Repository Link
 Submit the link to your public repository using the Google Form provided in the assignment document.
